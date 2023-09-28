@@ -5,14 +5,6 @@
   Software Engineer | Backend Developer (Java - J2EE | Spring Ecosystem)
 </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=khawaja-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="khawaja-abdullah" />
-</p>
-
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khawaja-abdullah" alt="khawaja-abdullah" /></a>
-</p>
-
 - 📫 How to reach me **khawaja.abdullah.ansar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -141,14 +133,8 @@
     </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khawaja-abdullah&show_icons=true&locale=en&layout=compact" alt="khawaja-abdullah" />
-</p>
+Thank you for visiting my profile. Let's create something awesome together!! 🚀
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khawaja-abdullah&show_icons=true&locale=en" alt="khawaja-abdullah" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khawaja-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="khawaja-abdullah" /> </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khawaja-abdullah&" alt="khawaja-abdullah" />
-</p>
+[![streak picture](https://github-readme-streak-stats.herokuapp.com/?user=khawaja-abdullah&)](https://khawaja-abdullah.me)
