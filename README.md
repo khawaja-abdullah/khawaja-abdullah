@@ -1,3 +1,5 @@
+[![API_GIF](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)](https://khawaja-abdullah.me)
+
 <h1 align="center">
   Greetings 👋 I'm Khawaja Abdullah
 </h1>
