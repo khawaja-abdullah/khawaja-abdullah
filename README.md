@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=khawaja-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="khawaja-abdullah" />
 </p>
 
-[![API_GIF](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)](https://khawaja-abdullah.me)
+[![API_GIF](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)](https://khawaja-abdullah.github.io/khawaja-abdullah)
 
 <h1 align="center">
   Greetings 👋 I'm Khawaja Abdullah
