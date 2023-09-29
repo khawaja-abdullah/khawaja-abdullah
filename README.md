@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=khawaja-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="khawaja-abdullah" />
+</p>
+
 [![API_GIF](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)](https://khawaja-abdullah.me)
 
 <h1 align="center">
@@ -140,10 +144,6 @@
 </p>
 
 I appreciate you stopping by my profile. Let's join forces to craft something truly outstanding! 🤝
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=khawaja-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="khawaja-abdullah" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khawaja-abdullah&style=flat" alt="khawaja-abdullah" />
