@@ -11,7 +11,7 @@
   Software Engineer | Backend Developer (Java - J2EE | Spring Ecosystem)
 </h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 🛠️ </h3>
 <p align="left">
     <!-- Programming Languages -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -130,31 +130,31 @@
     </a>
 </p>
 
-<h3 align="left">Professional Background:</h3>
+<h3 align="left">Professional Background 💼 </h3>
 <ul align="left">
-  <li>
-    <a href="https://ptcl.com.pk" target="blank" rel="noreferrer">
-      <img align="center" src="https://ptcl.com.pk/images/ptcl-logo-plain.svg" alt="ptcl-group" width="120" height="40"/>
-    </a>
-  </li>
   <li>
     <a href="https://afiniti.com" target="blank" rel="noreferrer">
       <img align="center" src="https://asset.brandfetch.io/idv5mOwytC/idFaewrNLK.png?updated=1693466048797" alt="afiniti" width="120" height="40"/>
     </a>
   </li>
   <li>
+    <a href="https://ptcl.com.pk" target="blank" rel="noreferrer">
+      <img align="center" src="https://ptcl.com.pk/images/ptcl-logo-plain.svg" alt="ptcl-group" width="120" height="40"/>
+    </a>
+  </li>
+  <li>
     <a href="https://devsinc.com" target="blank" rel="noreferrer">
-      <img align="center" src="https://devsinc.com/wp-content/uploads/2022/11/dev-logo.svg" alt="devsinc" />
+      <img align="center" src="https://devsinc.com/wp-content/uploads/2022/11/dev-logo.svg" alt="devsinc" width="120" height="40"/>
     </a>
   </li>
   <li>
     <a href="https://myintellirent.com" target="blank" rel="noreferrer">
-      <img align="center" src="https://myintellirent.com/hs-fs/hubfs/Marketing%20Materials/Logos/logo%20white.png?width=401&height=40&name=logo%20white.png" alt="intellirent" />
+      <img align="center" src="https://myintellirent.com/hs-fs/hubfs/Marketing%20Materials/Logos/logo%20white.png?width=301&height=30&name=logo%20white.png" alt="intellirent" />
     </a>
   </li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🌍 </h3>
 <p align="left">
     <a href="mailto:khawaja.abdullah.ansar@gmail.com" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="khawaja.abdullah.ansar@gmail.com" height="30" width="40" />
