@@ -8,7 +8,7 @@
   Greetings 👋 I'm Khawaja Abdullah
 </h1>
 <h3 align="center">
-  Software Engineer | Backend Developer (Java - J2EE | Spring | Microservices)
+  Software Engineer | Backend Developer (Java - J2EE, Spring, Microservices)
 </h3>
 
 <h3 align="left">About Me 💬</h3>
