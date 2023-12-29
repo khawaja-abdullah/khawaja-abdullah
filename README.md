@@ -43,6 +43,8 @@
     </li>
   </ul>
 </div>
+
+<div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
 <h3 align="left">Languages and Tools 🛠️</h3>
 <p align="left">
     <!-- Programming Languages -->
@@ -161,7 +163,9 @@
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60" /> 
     </a>
 </p>
+</div>
 
+<div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
 <h3 align="left">Professional Background 💼</h3>
 <p align="left">
     <a href="https://www.globalfinancialmedia.com/decypha-en.html" target="blank" rel="noreferrer">
@@ -183,7 +187,9 @@
       <img align="center" src="https://asset.brandfetch.io/idv5mOwytC/idFaewrNLK.png?updated=1693466048797" alt="afiniti" width="120" height="40"/>
     </a>
 </p>
+</div>
 
+<div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
 <h3 align="left">Connect with me 🌍</h3>
 <p align="left">
     <a href="mailto:khawaja.abdullah.ansar@gmail.com" target="blank">
@@ -196,6 +202,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+923175802542" height="30" width="40" />
     </a>
 </p>
+</div>
 
 I appreciate you stopping by my profile. Let's join forces to craft something truly outstanding! 🤝
 
