@@ -25,7 +25,7 @@
     <li>Spring HATEOAS</li>
   </ul>
   Specialized in scalable Microservices using JPA, Hibernate, and Spring modules. Adopts functional programming, AOP, and SOLID principles for robust, maintainable code.
-  Proficient in testing (JUnit5, Mockito, MockMVC), Agile methodologies, and collaboration tools (Jira, Confluence, Git, GitHub).
+  Proficient in testing (JUnit5, Mockito, MockMVC), Agile methodologies, and collaboration tools (Jira, Confluence, Git, Bitbucket, GitHub).
   Committed to CI/CD for timely, innovative backend solutions with a relentless pursuit of excellence.
 </p>
 
