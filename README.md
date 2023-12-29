@@ -164,6 +164,12 @@
 
 <h3 align="left">Professional Background 💼</h3>
 <p align="left">
+    <a href="https://www.globalfinancialmedia.com/decypha-en.html" target="blank" rel="noreferrer">
+      <img align="center" src="https://www.globalfinancialmedia.com/globalfinancialmedia-assets/images/logos/decypha-white.svg" alt="decypha" width="120" height="40" />
+    </a>
+    <a href="https://www.globalfinancialmedia.com" target="blank" rel="noreferrer">
+      <img align="center" src="https://www.globalfinancialmedia.com/globalfinancialmedia-assets/images/logos/dfn-white.svg" alt="gfm" width="120" height="120" />
+    </a>
     <a href="https://myintellirent.com" target="blank" rel="noreferrer">
       <img align="center" src="https://myintellirent.com/hubfs/Marketing%20Materials/Logos/IR%20Logo_Horizontal.svg" alt="intellirent" width="180" />
     </a>
