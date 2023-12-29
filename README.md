@@ -11,18 +11,38 @@
   Software Engineer | Backend Developer (Java - J2EE, Spring, Microservices)
 </h3>
 
-<h3 align="left">About Me 💬</h3>
-<p align="left">
-  Driven by an unwavering work ethic, he thrives on tackling challenges head-on, turning them into stepping stones for personal and professional advancement. With a passion for lifelong learning and dedication to acquiring new skills and knowledge each day, he aims to make a meaningful difference and excel in every facet of life. A proactive and enthusiastic individual, who is committed to continuous growth and embracing opportunities to contribute positively in dynamic and collaborative environments, focusing on creating value.
-</p>
-
 <h3 align="left">Technical Background ⚙️</h3>
-<p align="left">
-  Having gained one year of experience as a Java Spring backend developer, my skill set encompasses a broad range of Java programming abilities and a deep understanding of the Spring ecosystem. I possess expertise in various Spring modules, including Spring Framework, Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Cloud, Spring Batch, and Spring HATEOAS. My proficiency extends to crafting scalable, modular, and multi-tenant Microservice Architecture solutions.
-  Proficient in JPA and Hibernate ORM, I excel at managing interactions with both relational and non-relational databases efficiently. To enhance the quality and maintainability of my code, I leverage functional and reactive programming paradigms, employ Aspect-Oriented Programming (AOP), and adhere to SOLID principles. My commitment to reliability leads me to implement robust unit and integration tests using tools like JUnit5, Mockito, and MockMVC.
-  Within my development process, I actively collaborate using Agile methodologies, placing emphasis on effective communication and thorough documentation through the Atlassian suite (Jira and Confluence). For version control and collaboration, I rely on Git and GitHub. I strongly believe in and adopt Continuous Integration and Deployment (CI/CD) principles to deliver timely and efficient backend solutions that adapt to the dynamic software development landscape. Innovation and a relentless pursuit of excellence drive my work.
+<p style="font-family: 'Arial', sans-serif; font-size: 16px; line-height: 1.6; color: #333; margin-bottom: 20px;">
+  Experienced Java Spring developer with expertise in:
+  <ul style="list-style-type: disc; margin-left: 20px;">
+    <li>Spring Framework</li>
+    <li>Spring Boot</li>
+    <li>Spring MVC</li>
+    <li>Spring Data</li>
+    <li>Spring Security</li>
+    <li>Spring Cloud</li>
+    <li>Spring Batch</li>
+    <li>Spring HATEOAS</li>
+  </ul>
+  Specialized in scalable Microservices using JPA, Hibernate, and Spring modules. Adopts functional programming, AOP, and SOLID principles for robust, maintainable code.
+  Proficient in testing (JUnit5, Mockito, MockMVC), Agile methodologies, and collaboration tools (Jira, Confluence, Git, GitHub).
+  Committed to CI/CD for timely, innovative backend solutions with a relentless pursuit of excellence.
 </p>
 
+<div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
+  <h3 style="color: #333; border-bottom: 2px solid #333; padding-bottom: 5px; font-size: 24px;">About Me 💬</h3>
+  <ul style="list-style-type: none; padding: 0; margin: 0;">
+    <li style="background-color: #fff; border-radius: 8px; padding: 15px; margin-bottom: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+      <p style="color: #555; font-size: 16px;">Passionate problem solver turning challenges into stepping stones for personal and professional growth.</p>
+    </li>
+    <li style="background-color: #fff; border-radius: 8px; padding: 15px; margin-bottom: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+      <p style="color: #555; font-size: 16px;">Lifelong learner dedicated to acquiring new skills daily, making a meaningful difference, and excelling in every facet of life.</p>
+    </li>
+    <li style="background-color: #fff; border-radius: 8px; padding: 15px; margin-bottom: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+      <p style="color: #555; font-size: 16px;">Proactive and enthusiastic individual committed to continuous growth, embracing opportunities, and creating value in dynamic environments.</p>
+    </li>
+  </ul>
+</div>
 <h3 align="left">Languages and Tools 🛠️</h3>
 <p align="left">
     <!-- Programming Languages -->
