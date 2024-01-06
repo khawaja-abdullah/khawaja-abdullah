@@ -11,38 +11,21 @@
   Software Engineer | Backend Developer (Java - J2EE, Spring, Microservices)
 </h3>
 
-<h3 align="left">Technical Background ⚙️</h3>
-<p style="font-family: 'Arial', sans-serif; font-size: 16px; line-height: 1.6; color: #333; margin-bottom: 20px;">
-  Experienced Java Spring developer with expertise in:
-  <ul style="list-style-type: disc; margin-left: 20px;">
-    <li>Spring Framework</li>
-    <li>Spring Boot</li>
-    <li>Spring MVC</li>
-    <li>Spring Data</li>
-    <li>Spring Security</li>
-    <li>Spring Cloud</li>
-    <li>Spring Batch</li>
-    <li>Spring HATEOAS</li>
-  </ul>
-  Specialized in scalable Microservices using JPA, Hibernate, and Spring modules. Adopts functional programming, AOP, and SOLID principles for robust, maintainable code.
-  Proficient in testing (JUnit5, Mockito, MockMVC), Agile methodologies, and collaboration tools (Jira, Confluence, Git, Bitbucket, GitHub).
-  Committed to CI/CD for timely, innovative backend solutions with a relentless pursuit of excellence.
-</p>
-
 <div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
   <h3 style="color: #333; border-bottom: 2px solid #333; padding-bottom: 5px; font-size: 24px;">About Me 💬</h3>
-  <ul style="list-style-type: none; padding: 0; margin: 0;">
-    <li style="background-color: #fff; border-radius: 8px; padding: 15px; margin-bottom: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-      <p style="color: #555; font-size: 16px;">Passionate problem solver turning challenges into stepping stones for personal and professional growth.</p>
-    </li>
-    <li style="background-color: #fff; border-radius: 8px; padding: 15px; margin-bottom: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-      <p style="color: #555; font-size: 16px;">Lifelong learner dedicated to acquiring new skills daily, making a meaningful difference, and excelling in every facet of life.</p>
-    </li>
-    <li style="background-color: #fff; border-radius: 8px; padding: 15px; margin-bottom: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-      <p style="color: #555; font-size: 16px;">Proactive and enthusiastic individual committed to continuous growth, embracing opportunities, and creating value in dynamic environments.</p>
-    </li>
-  </ul>
+  <p style="font-family: 'Arial', sans-serif; font-size: 16px; line-height: 1.6; color: #333; margin-bottom: 20px;">
+    Motivated by a steadfast work ethic, I thrive on facing challenges head on, transforming them into stepping stones for personal and professional growth. My dedication to continuous learning and the acquisition of new skills fuels my passion for making a meaningful impact and excelling in all aspects of life. As a proactive and enthusiastic individual, I am committed to ongoing growth and eagerly embrace opportunities to contribute positively in dynamic and collaborative environments, with a focus on creating value.
+  </p>
 </div>
+
+<h3 align="left">Technical Background ⚙️</h3>
+<p style="font-family: 'Arial', sans-serif; font-size: 16px; line-height: 1.6; color: #333; margin-bottom: 20px;">
+With one and a half years of experience as a Java Spring backend developer, I have cultivated a diverse skill set that encompasses a wide range of Java programming abilities and a deep understanding of the Spring ecosystem. My expertise extends to various Spring modules, including Spring Framework, Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Cloud, Spring Batch, and Spring HATEOAS. I specialize in crafting scalable, modular, and multi-tenant Microservice Architecture solutions.
+
+Proficient in JPA and Hibernate ORM, I excel at efficiently managing interactions with both relational and non-relational databases. To enhance the quality and maintainability of my code, I leverage functional and reactive programming paradigms, employ Aspect-Oriented Programming (AOP), and adhere to SOLID principles. My commitment to reliability leads me to implement robust unit and integration tests using tools like JUnit5, Mockito, and MockMVC.
+
+In my development process, I actively collaborate using Agile methodologies, emphasizing effective communication and thorough documentation through the Atlassian suite (Jira and Confluence). For version control and collaboration, I rely on Git, GitHub and BitBucket. I strongly believe in and adopt Continuous Integration and Deployment (CI/CD) principles to deliver timely and efficient backend solutions that adapt to the dynamic software development landscape. My work is driven by a commitment to innovation and a relentless pursuit of excellence.
+</p>
 
 <div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
 <h3 align="left">Languages and Tools 🛠️</h3>
