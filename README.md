@@ -21,7 +21,7 @@
 </div>
 
 <div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
-<h3 align="left">Technical Background ⚙️</h3>
+<h3 style="color: #333; border-bottom: 2px solid #333; padding-bottom: 5px; font-size: 24px;">Technical Background ⚙️</h3>
 <p style="font-family: 'Arial', sans-serif; font-size: 16px; line-height: 1.6; color: #333; margin-bottom: 20px;">
 With one and a half years of experience as a Java Spring backend developer, I have cultivated a diverse skill set that encompasses a wide range of Java programming abilities and a deep understanding of the Spring ecosystem. My expertise extends to various Spring modules, including Spring Framework, Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Cloud, Spring Batch, and Spring HATEOAS. I specialize in crafting scalable, modular, and multi-tenant Microservice Architecture solutions.
 </div>
@@ -32,7 +32,7 @@ In my development process, I actively collaborate using Agile methodologies, emp
 </p>
 
 <div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
-<h3 align="left">Languages and Tools 🛠️</h3>
+<h3 style="color: #333; border-bottom: 2px solid #333; padding-bottom: 5px; font-size: 24px;">Languages and Tools 🛠️</h3>
 <p align="left">
     <!-- Programming Languages -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -153,7 +153,7 @@ In my development process, I actively collaborate using Agile methodologies, emp
 </div>
 
 <div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
-    <h3>Professional Background 💼</h3>
+    <h3 style="color: #333; border-bottom: 2px solid #333; padding-bottom: 5px; font-size: 24px;">Professional Background 💼</h3>
     <table style="width: 100%;">
         <tr>
             <td style="text-align: center;">
@@ -191,7 +191,7 @@ In my development process, I actively collaborate using Agile methodologies, emp
 </div>
 
 <div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
-<h3 align="left">Connect with me 🌍</h3>
+<h3 style="color: #333; border-bottom: 2px solid #333; padding-bottom: 5px; font-size: 24px;">Connect with me 🌍</h3>
 <p align="left">
     <a href="mailto:khawaja.abdullah.ansar@gmail.com" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="khawaja.abdullah.ansar@gmail.com" height="30" width="40" />
