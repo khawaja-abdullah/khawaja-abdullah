@@ -4,12 +4,14 @@
 
 [![API_GIF](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)](https://khawaja-abdullah.github.io/khawaja-abdullah)
 
+<div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
 <h1 align="center">
   Greetings 👋 I'm Khawaja Abdullah
 </h1>
 <h3 align="center">
   Software Engineer | Backend Developer (Java - J2EE, Spring, Microservices)
 </h3>
+</div>
 
 <div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
   <h3 style="color: #333; border-bottom: 2px solid #333; padding-bottom: 5px; font-size: 24px;">About Me 💬</h3>
