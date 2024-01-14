@@ -169,7 +169,7 @@ In my development process, I actively collaborate using Agile methodologies, emp
             </td>
             <td style="text-align: center;">
                 <a href="https://devsinc.com" target="blank" rel="noreferrer">
-                    <img src="https://devsinc.com/wp-content/uploads/2023/12/Mask-group.png" alt="devsinc" width="120" height="40" />
+                    <img src="https://devsinc.com/wp-content/uploads/2023/12/2018-new-logo-2-1.webp" alt="devsinc" width="120" height="40" />
                 </a>
             </td>
             <td style="text-align: center;">
