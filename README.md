@@ -18,9 +18,11 @@
   </p>
 </div>
 
+<div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
 <h3 align="left">Technical Background ⚙️</h3>
 <p style="font-family: 'Arial', sans-serif; font-size: 16px; line-height: 1.6; color: #333; margin-bottom: 20px;">
 With one and a half years of experience as a Java Spring backend developer, I have cultivated a diverse skill set that encompasses a wide range of Java programming abilities and a deep understanding of the Spring ecosystem. My expertise extends to various Spring modules, including Spring Framework, Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Cloud, Spring Batch, and Spring HATEOAS. I specialize in crafting scalable, modular, and multi-tenant Microservice Architecture solutions.
+</div>
 
 Proficient in JPA and Hibernate ORM, I excel at efficiently managing interactions with both relational and non-relational databases. To enhance the quality and maintainability of my code, I leverage functional and reactive programming paradigms, employ Aspect-Oriented Programming (AOP), and adhere to SOLID principles. My commitment to reliability leads me to implement robust unit and integration tests using tools like JUnit5, Mockito, and MockMVC.
 
@@ -201,8 +203,10 @@ In my development process, I actively collaborate using Agile methodologies, emp
 </p>
 </div>
 
+<div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
 I appreciate you stopping by my profile. Let's join forces to craft something truly outstanding! 🤝
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khawaja-abdullah&style=flat" alt="khawaja-abdullah" />
 </p>
+</div>
