@@ -154,22 +154,22 @@ In my development process, I actively collaborate using Agile methodologies, emp
         <tr>
             <td style="text-align: center;">
                 <a href="https://www.globalfinancialmedia.com/decypha-en.html" target="blank" rel="noreferrer">
-                    <img src="https://www.globalfinancialmedia.com/globalfinancialmedia-assets/images/logos/decypha-white.svg" alt="decypha" width="120" height="40" />
+                    <img src="https://www.globalfinancialmedia.com/globalfinancialmedia-assets/images/logos/decypha-blue.svg" alt="decypha" width="120" height="40" />
                 </a>
             </td>
             <td style="text-align: center;">
                 <a href="https://www.globalfinancialmedia.com" target="blank" rel="noreferrer">
-                    <img src="https://www.globalfinancialmedia.com/globalfinancialmedia-assets/images/logos/dfn-white.svg" alt="gfm" width="120" height="40" />
+                    <img src="https://www.globalfinancialmedia.com/globalfinancialmedia-assets/images/logos/dfn-blue.svg" alt="gfm" width="120" height="40" />
                 </a>
             </td>
             <td style="text-align: center;">
                 <a href="https://myintellirent.com" target="blank" rel="noreferrer">
-                    <img src="https://myintellirent.com/hubfs/Marketing%20Materials/Logos/IR%20Logo_Horizontal.svg" alt="intellirent" width="180" />
+                    <img src="https://myintellirent.com/hubfs/Marketing%20Materials/Logos/IR%20Logo_Horizontal.svg" alt="intellirent" width="150" height="40" />
                 </a>
             </td>
             <td style="text-align: center;">
                 <a href="https://devsinc.com" target="blank" rel="noreferrer">
-                    <img src="https://devsinc.com/wp-content/uploads/2023/12/2018-new-logo-2-1.webp" alt="devsinc" width="120" height="40" />
+                    <img src="https://devsinc.com/wp-content/uploads/2023/12/2018-new-logo-2-1.webp" alt="devsinc" width="120" height="30" />
                 </a>
             </td>
             <td style="text-align: center;">
