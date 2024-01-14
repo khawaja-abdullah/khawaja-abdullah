@@ -149,27 +149,39 @@ In my development process, I actively collaborate using Agile methodologies, emp
 </div>
 
 <div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
-<h3 align="left">Professional Background 💼</h3>
-<p align="left">
-    <a href="https://www.globalfinancialmedia.com/decypha-en.html" target="blank" rel="noreferrer">
-      <img align="center" src="https://www.globalfinancialmedia.com/globalfinancialmedia-assets/images/logos/decypha-white.svg" alt="decypha" width="120" height="40" />
-    </a>
-    <a href="https://www.globalfinancialmedia.com" target="blank" rel="noreferrer">
-      <img align="center" src="https://www.globalfinancialmedia.com/globalfinancialmedia-assets/images/logos/dfn-white.svg" alt="gfm" width="120" height="120" />
-    </a>
-    <a href="https://myintellirent.com" target="blank" rel="noreferrer">
-      <img align="center" src="https://myintellirent.com/hubfs/Marketing%20Materials/Logos/IR%20Logo_Horizontal.svg" alt="intellirent" width="180" />
-    </a>
-    <a href="https://ptcl.com.pk" target="blank" rel="noreferrer">
-      <img align="center" src="https://ptcl.com.pk/images/ptcl-logo-plain.svg" alt="ptcl-group" width="120" height="40"/>
-    </a>
-    <a href="https://devsinc.com" target="blank" rel="noreferrer">
-      <img align="center" src="https://devsinc.com/wp-content/uploads/2022/11/dev-logo.svg" alt="devsinc" width="120" height="40" />
-    </a>
-    <a href="https://afiniti.com" target="blank" rel="noreferrer">
-      <img align="center" src="https://asset.brandfetch.io/idv5mOwytC/idFaewrNLK.png?updated=1693466048797" alt="afiniti" width="120" height="40"/>
-    </a>
-</p>
+    <h3>Professional Background 💼</h3>
+    <div style="text-align: center;">
+        <div style="margin-bottom: 20px;">
+            <a href="https://www.globalfinancialmedia.com/decypha-en.html" target="blank" rel="noreferrer">
+                <img src="https://www.globalfinancialmedia.com/globalfinancialmedia-assets/images/logos/decypha-white.svg" alt="decypha" width="120" height="40" />
+            </a>
+        </div>
+        <div style="margin-bottom: 20px;">
+            <a href="https://www.globalfinancialmedia.com" target="blank" rel="noreferrer">
+                <img src="https://www.globalfinancialmedia.com/globalfinancialmedia-assets/images/logos/dfn-white.svg" alt="gfm" width="120" height="40" />
+            </a>
+        </div>
+        <div style="margin-bottom: 20px;">
+            <a href="https://myintellirent.com" target="blank" rel="noreferrer">
+                <img src="https://myintellirent.com/hubfs/Marketing%20Materials/Logos/IR%20Logo_Horizontal.svg" alt="intellirent" width="180" />
+            </a>
+        </div>
+        <div style="margin-bottom: 20px;">
+            <a href="https://ptcl.com.pk" target="blank" rel="noreferrer">
+                <img src="https://ptcl.com.pk/images/ptcl-logo-plain.svg" alt="ptcl-group" width="120" height="40" />
+            </a>
+        </div>
+        <div style="margin-bottom: 20px;">
+            <a href="https://devsinc.com" target="blank" rel="noreferrer">
+                <img src="https://devsinc.com/wp-content/uploads/2023/12/Mask-group.png" alt="devsinc" width="120" height="40" />
+            </a>
+        </div>
+        <div>
+            <a href="https://afiniti.com" target="blank" rel="noreferrer">
+                <img src="https://asset.brandfetch.io/idv5mOwytC/idFaewrNLK.png?updated=1693466048797" alt="afiniti" width="120" height="40" />
+            </a>
+        </div>
+    </div>
 </div>
 
 <div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
