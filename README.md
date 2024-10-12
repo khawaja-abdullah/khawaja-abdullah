@@ -6,10 +6,10 @@
 
 <div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
 <h1 align="center">
-  Greetings 👋 I'm Khawaja Abdullah
+  Greetings 👋 Khawaja here!
 </h1>
 <h3 align="center">
-  Software Engineer | Backend Developer (Java - J2EE, Spring, Microservices)
+  Software Engineer | Backend Developer (Java) @ Xgrid | Cloud Engineer @ SleepNumber Labs
 </h3>
 </div>
 
@@ -23,13 +23,13 @@
 <div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
 <h3 style="color: #333; border-bottom: 2px solid #333; padding-bottom: 5px; font-size: 24px;">Technical Background ⚙️</h3>
 <p style="font-family: 'Arial', sans-serif; font-size: 16px; line-height: 1.6; color: #333; margin-bottom: 20px;">
-With one and a half years of experience as a Java Spring backend developer, I have cultivated a diverse skill set that encompasses a wide range of Java programming abilities and a deep understanding of the Spring ecosystem. My expertise extends to various Spring modules, including Spring Framework, Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Cloud, Spring Batch, and Spring HATEOAS. I specialize in crafting scalable, modular, and multi-tenant Microservice Architecture solutions.
-</div>
+In two years lonng journey as a software engineer, I have cultivated a diverse skill set that encompasses a wide range of Java programming abilities and a deep understanding of the Spring ecosystem. My expertise extends to various Spring modules, including Spring Framework, Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Cloud, Spring Batch, and Spring HATEOAS. I specialize in crafting scalable, modular, and multi-tenant Microservice Architecture solutions.
 
 Proficient in JPA and Hibernate ORM, I excel at efficiently managing interactions with both relational and non-relational databases. To enhance the quality and maintainability of my code, I leverage functional and reactive programming paradigms, employ Aspect-Oriented Programming (AOP), and adhere to SOLID principles. My commitment to reliability leads me to implement robust unit and integration tests using tools like JUnit5, Mockito, and MockMVC.
 
 In my development process, I actively collaborate using Agile methodologies, emphasizing effective communication and thorough documentation through the Atlassian suite (Jira and Confluence). For version control and collaboration, I rely on Git, GitHub and BitBucket. I strongly believe in and adopt Continuous Integration and Deployment (CI/CD) principles to deliver timely and efficient backend solutions that adapt to the dynamic software development landscape. My work is driven by a commitment to innovation and a relentless pursuit of excellence.
 </p>
+</div>
 
 <div style="font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f5f5f5; padding: 20px;">
 <h3 style="color: #333; border-bottom: 2px solid #333; padding-bottom: 5px; font-size: 24px;">Languages and Tools 🛠️</h3>
@@ -156,6 +156,16 @@ In my development process, I actively collaborate using Agile methodologies, emp
     <h3 style="color: #333; border-bottom: 2px solid #333; padding-bottom: 5px; font-size: 24px;">Professional Background 💼</h3>
     <table style="width: 100%;">
         <tr>
+           <td style="text-align: center;">
+                <a href="https://www.sleepnumber.com/" target="blank" rel="noreferrer">
+                    <img src="https://www.sleepnumberlabs.com/images/SN_Labs_2007_01_white.png?crc=4232438127" alt="sleepnumber" width="120" height="40" />
+                </a>
+            </td>
+            <td style="text-align: center;">
+                <a href="https://www.xgrid.co/" target="blank" rel="noreferrer">
+                    <img src="https://www.xgrid.co/_next/static/media/xgrid-logo-menu.7b3f81b7.png" alt="xgrid" width="120" height="40" />
+                </a>
+            </td>
             <td style="text-align: center;">
                 <a href="https://www.globalfinancialmedia.com/decypha-en.html" target="blank" rel="noreferrer">
                     <img src="https://www.globalfinancialmedia.com/globalfinancialmedia-assets/images/logos/decypha-blue.svg" alt="decypha" width="120" height="40" />
@@ -173,7 +183,7 @@ In my development process, I actively collaborate using Agile methodologies, emp
             </td>
             <td style="text-align: center;">
                 <a href="https://devsinc.com" target="blank" rel="noreferrer">
-                    <img src="https://devsinc.com/wp-content/uploads/2023/12/2018-new-logo-2-1.webp" alt="devsinc" width="120" height="30" />
+                    <img src="https://cdn.prod.website-files.com/65e9d802e7334ec910a26e59/65e9dc44087cee387ed320b5_Devsinc_Logo-removebg-preview%20(1).png" alt="devsinc" width="120" height="30" />
                 </a>
             </td>
             <td style="text-align: center;">
