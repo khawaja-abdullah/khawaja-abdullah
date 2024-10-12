@@ -158,12 +158,12 @@ In my development process, I actively collaborate using Agile methodologies, emp
         <tr>
            <td style="text-align: center;">
                 <a href="https://www.sleepnumber.com/" target="blank" rel="noreferrer">
-                    <img src="https://www.sleepnumberlabs.com/images/SN_Labs_2007_01_white.png?crc=4232438127" alt="sleepnumber" width="120" height="40" />
+                    <img src="https://www.sleepnumberlabs.com/images/SN_Labs_2007_01_white.png?crc=4232438127" alt="sleepnumber" width="150" height="40" />
                 </a>
             </td>
             <td style="text-align: center;">
                 <a href="https://www.xgrid.co/" target="blank" rel="noreferrer">
-                    <img src="https://www.xgrid.co/_next/static/media/xgrid-logo-menu.7b3f81b7.png" alt="xgrid" width="120" height="40" />
+                    <img src="https://media.licdn.com/dms/image/v2/D560BAQEdhe60qqzi3g/company-logo_200_200/company-logo_200_200/0/1721054328566?e=2147483647&v=beta&t=1vy7CJTkEOZacPjiBQ-8_yJQ6wRJ3GJ0RTt6-w0NwQA" alt="xgrid" width="120" height="60" />
                 </a>
             </td>
             <td style="text-align: center;">
