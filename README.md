@@ -19,16 +19,22 @@
 
 ```java
 
-public class BackendEngineer {
+public class Khawaja {
 
-    private final String name = "Khawaja Abdullah Ansar";
-    private final int experienceYears = 3;
+    private Khawaja() {}
 
-    private final String[] domains = {
+    public static final String FULL_NAME = "Khawaja Abdullah Ansar";
+    public static final int EXPERIENCE_IN_YEARS = 3;
+
+    public static final String[] BUSINESS_DOMAINS = {
         "Real Estate", "FinTech", "HealthCare", "IoT"
     };
 
-    private final String[] specialties = {
+    public static final String[] NOTABLE_PRODUCTS = {
+        "Intellirent", "Decypha", "Mubasher Info", "SleepNumber"
+    };
+
+    public static final String[] EXPERTISE = {
         "Microservices Architecture",
         "Cloud-Native Development",
         "Performance Engineering",
@@ -36,12 +42,12 @@ public class BackendEngineer {
         "Legacy System Modernization"
     };
 
-    public void currentRole() {
+    public static void currentRole() {
         System.out.println("Solving distributed system challenges @ Sleep Number Labs");
         System.out.println("Leading Cassandra → Aurora Serverless (MySQL) migration");
     }
 
-    public String[] engineeringPhilosophy() {
+    public static String[] engineeringPhilosophy() {
         return new String[] {
             "Clean code",
             "Resilient architecture",
@@ -49,9 +55,10 @@ public class BackendEngineer {
         };
     }
 
-    public boolean isOpenToLearning() {
+    public static boolean isOpenToLearning() {
         return true;
     }
+
 }
 
 ```
