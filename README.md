@@ -195,8 +195,6 @@ flowchart TD
 
 ## 🌐 Let's Connect
 
-<div align="center">
-
 ```javascript
 const connect = {
   linkedin: "https://linkedin.com/in/khawajaabdullahansar",
