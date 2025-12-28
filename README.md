@@ -18,44 +18,47 @@
 ## 🚀 About Me
 
 ```java
-
-public class Khawaja {
-
-    private Khawaja() {}
+/**
+ * Represents the engineering profile of Khawaja Abdullah Ansar.
+ * Focused on high-scale distributed systems and performance.
+ */
+public record Khawaja() {
 
     public static final String FULL_NAME = "Khawaja Abdullah Ansar";
-    public static final int EXPERIENCE_IN_YEARS = 3;
+    public static final double EXPERIENCE_IN_YEARS = 3.5;
 
-    public static final String[] BUSINESS_DOMAINS = {
+    public static final List<String> BUSINESS_DOMAINS = List.of(
         "Real Estate", "FinTech", "HealthCare", "IoT"
-    };
+    );
 
-    public static final String[] NOTABLE_PRODUCTS = {
+    public static final List<String> NOTABLE_PRODUCTS = List.of(
         "Intellirent", "Decypha", "Mubasher Info", "SleepNumber"
-    };
+    );
 
-    public static final String[] EXPERTISE = {
+    public static final List<String> EXPERTISE = List.of(
         "Microservices Architecture",
         "Cloud-Native Development",
         "Performance Engineering",
-        "System Design",
+        "Distributed Systems Design",
         "Legacy System Modernization"
-    };
+    );
 
-    public static void currentRole() {
-        System.out.println("Solving distributed system challenges @ Sleep Number Labs");
-        System.out.println("Leading Cassandra → Aurora Serverless (MySQL) migration");
+    public static void printCurrentFocus() {
+        System.out.printf("""
+            Current Focus: Solving distributed system challenges @ Sleep Number Labs
+            Primary Task: Leading Cassandra %s Aurora Serverless (MySQL) migration
+            """, "→");
     }
 
-    public static String[] engineeringPhilosophy() {
-        return new String[] {
+    public static List<String> engineeringPhilosophy() {
+        return List.of(
             "Clean code",
             "Resilient architecture",
             "Relentless optimization"
-        };
+        );
     }
 
-    public static boolean isOpenToLearning() {
+    public static boolean isGrowthMinded() {
         return true;
     }
 
