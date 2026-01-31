@@ -151,24 +151,29 @@ public record Khawaja() {
 
 ```mermaid
 flowchart TD
-    A[🎓 BS Computer Science<br/>FAST NUCES ISB] --> B[💻 Associate Software Engineer -> Software Engineer <br/>Devsinc]
-    B --> C[🚀 Software Engineer - Java Developer <br/>Mubasher Info]
-    C --> D[⚡ Backend Java Developer I -> Backend Java Developer II <br/>Xgrid.co]
-    D --> E[🏗️ Coming Soon]
+    A[🎓 BS Computer Science<br/>FAST NUCES ISB] --> B[💻 Associate SE -> Software Engineer <br/>Devsinc]
+    B --> C[🚀 SE - Java Developer <br/>Mubasher Info]
+    C --> D[⚡ BE Java Dev I -> BE Java Dev II <br/>Xgrid.co @ Sleep Number Labs]
+    D --> E[🎯 Transitioning to New Role]
     
+    %% DEVSINC / INTELLIRENT
     B --> B1[🔄 Intellirent Monolith Migration<br/>Ruby on Rails → 10+ Java Spring Boot Microservices]
-    B --> B2[🔗 Third Party Enterprise API Integrations<br/>SendGrid, Twilio, AWS S3, Nova Credit, TransUnion, Experian, Finicity, Stripe, Google Identity]
+    B --> B2[🔗 Enterprise API Integrations<br/>Stripe, SendGrid, Twilio, AWS S3, Nova Credit, TransUnion, Experian, Finicity, Google Identity]
     
+    %% MUBASHER
     C --> C1[⚡ Decypha Performance Engineering<br/>66% FCP Improvement]
-    C --> C2[🔧 Legacy Mubasher Modernization<br/>Social Trading Modules]
-    C --> C3[☁️ Serverless Solutions<br/>Automated Data Ingestion]
+    C --> C2[🔧 Legacy Mubasher Modernization<br/>New Social Trading Module]
+    C --> C3[☁️ Serverless Solutions<br/>Automated Data Ingestion Pipeline]
     
-    D --> D1[🛡️ Cloud Engineering @ Sleep Number Labs<br/>Infra Adoption + Maturity]
-    D --> D2[📊 Cache Migration<br/>Hazelcast → ElastiCache Redis]
-    D --> D3[🚀 Cache Performance Optimization<br/>Custom Redis-HashTag Indexing]
-    D --> D4[💰 Cache Cost Optimization<br/>75% Monthly Savings via TPS Tuning]
-    D --> D5[🔄 DB Migration<br/>Cassandra → Aurora MySQL Serverless]
-    D --> D6[📈 Stress Testing Tools<br/>Hazelcast, Redis, Aurora]
+    %% XGRID / SLEEP NUMBER
+    D --> D1[🛡️ Cloud Engineering @ Sleep Number Labs<br/>Legacy Code Modernization, Infrastructure Maturity, Cost Optimizations]
+    D --> D2[🔄 Cache Migration<br/>Hazelcast to ElastiCache Redis<br/>Stress-Testing Framework for HZ and Redis]
+    D --> D3[🚀 Cache Performance Optimization<br/>Redis-HashTag based Custom Indexing<br/>ELB Timeouts reduced to Near-Instant Responses]
+    D --> D4[📉 ElastiCache Cost Optimization<br/>96% GET & 81% PUT TPS Reduction<br/>Cluster Rightsizing<br/>75% Monthly Cost Savings]
+    D --> D5[🔄 Database Migration<br/>Cassandra to Aurora MySQL Serverless<br/>Dual-write data pipeline<br/>legacy services -> C* & MSK -> ECS Fargate Consumers -> Aurora - Feature Flags Managed Transition<br/>Owned 1x DBaaS API and 3x Kafka Consumer microservices<br/>Stress-Testing Framework for Aurora]
+    D --> D6[🛡️ IaaC Pipeline Maturity<br/>6hr Sprint Build Activity -> <2hrs via Automated Provisioning]
+    D --> D7[🔍 E2E Performance Engineering Activities<br/>Stress & Load Testing Owner<br/>GC/Heap/Thread Dump Analysis]
+    D --> D8[🛠️ SRE & Day-to-Day Ops Partnerships<br/>Prod Incidents Investigation and Resolution<br/>Standardized Knowledge Bases<br/>Eliminated Tribal Knowledge]
 
     %% Main Nodes
     style A fill:#1F77B4,stroke:#1F77B4,stroke-width:2px,color:#ffffff
@@ -192,6 +197,9 @@ flowchart TD
     style D4 fill:#F3E5F5,stroke:#8E44AD,stroke-width:1.5px,color:#4A148C
     style D5 fill:#F3E5F5,stroke:#8E44AD,stroke-width:1.5px,color:#4A148C
     style D6 fill:#F3E5F5,stroke:#8E44AD,stroke-width:1.5px,color:#4A148C
+    style D7 fill:#F3E5F5,stroke:#8E44AD,stroke-width:1.5px,color:#4A148C
+    style D8 fill:#F3E5F5,stroke:#8E44AD,stroke-width:1.5px,color:#4A148C
+
 ```
 
 ---
