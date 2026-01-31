@@ -152,7 +152,7 @@ public record Khawaja() {
 ```mermaid
 flowchart TD
     A[🎓 BS Computer Science<br/>FAST NUCES ISB] --> B[💻 Associate SE -> Software Engineer <br/>Devsinc]
-    B --> C[🚀 SE - Java Developer <br/>Mubasher Info]
+    B --> C[🚀 SE - Java Developer <br/> Global Financial Media - Mubasher]
     C --> D[⚡ BE Java Dev I -> BE Java Dev II <br/>Xgrid.co]
     D --> E[🎯 Transitioning to New Role]
     
@@ -160,9 +160,9 @@ flowchart TD
     B --> B1[🔄 Intellirent Monolith Migration<br/>Ruby on Rails → 10+ Java Spring Boot Microservices]
     B --> B2[🔗 Enterprise API Integrations<br/>Stripe, SendGrid, Twilio, AWS S3, Nova Credit, TransUnion, Experian, Finicity, Google Identity]
     
-    %% MUBASHER
+    %% GLOBAL FINALICAL MEDIA | MUBASHER / DECYPHA, MUBASHER INFO
     C --> C1[⚡ Decypha Performance Engineering<br/>66% FCP Improvement]
-    C --> C2[🔧 Legacy Mubasher Modernization<br/>New Social Trading Module]
+    C --> C2[🔧 Legacy Mubasher Info Modernization<br/>New Social Trading Module Core Features]
     C --> C3[☁️ Serverless Solutions<br/>Automated Data Ingestion Pipeline]
     
     %% XGRID / SLEEP NUMBER
