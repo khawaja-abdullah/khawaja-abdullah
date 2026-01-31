@@ -166,14 +166,14 @@ flowchart TD
     C --> C3[☁️ Serverless Solutions<br/>Automated Data Ingestion Pipeline]
     
     %% XGRID / SLEEP NUMBER
-    D --> D1[🛡️ Cloud Engineering @ Sleep Number Labs<br/>Legacy Code Modernization, Infrastructure Maturity, Cost Optimizations]
+    D --> D1[🛡️ Cloud Engineering @ Sleep Number Labs<br/>Legacy Code Modernization -- Infrastructure Maturity -- Cloud Cost Optimizations]
     D --> D2[🔄 Cache Migration<br/>Hazelcast to ElastiCache Redis -- Stress-Testing Framework for HZ and Redis]
     D --> D3[🚀 Cache Performance Optimization<br/>Redis-HashTag based Custom Indexing -- ELB Timeouts reduced to Near-Instant Responses]
     D --> D4[📉 ElastiCache Cost Optimization<br/>96% GET & 81% PUT TPS Reduction -- Cluster Rightsizing -- 75% Yearly Cost Savings]
-    D --> D5[🔄 Database Migration<br/>Cassandra to Aurora MySQL Serverless -- Dual-write data pipeline -- Legacy microservices -> C* & MSK -> ECS Fargate Consumers -> Aurora - Feature Flags Managed Transition -- Owned 1x DBaaS API and 3x Kafka Consumer microservices -- Stress-Testing Framework for Aurora -- DSE License Cost Cut -- >70% Yearly Cost Savings]
+    D --> D5[🔄 Database Migration<br/>Cassandra to Aurora MySQL Serverless -- Dual-write data pipeline -- Legacy microservices -> C* & MSK -> ECS Fargate Consumers -> Aurora -- Feature Flags Managed Transition -- Owned 1x DBaaS API and 3x Kafka Consumer microservices -- Stress-Testing Framework for Aurora -- DSE License Cost Cut -- >70% Yearly Cost Savings]
     D --> D6[🛡️ IaaC Pipeline Maturity<br/>6hr Sprint Build Activity -> <2hrs via Automated Provisioning]
     D --> D7[🔍 E2E Performance Engineering Activities<br/>Stress & Load Testing Owner -- GC/Heap/Thread Dump Analysis]
-    D --> D8[🛠️ SRE & Day-to-Day Ops Partnerships -- Prod Incidents Investigation and Resolution<br/>Standardized Knowledge Bases -- Eliminated Tribal Knowledge]
+    D --> D8[🛠️ SRE & Day-to-Day Ops Partnerships -- Prod Incidents Investigation and Resolution -- Standardized Knowledge Bases -- Eliminated Tribal Knowledge]
 
     %% Main Nodes
     style A fill:#1F77B4,stroke:#1F77B4,stroke-width:2px,color:#ffffff
