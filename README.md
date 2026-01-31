@@ -46,7 +46,7 @@ public record Khawaja() {
     public static void printCurrentFocus() {
         System.out.printf("""
             Current Focus: Solving distributed system challenges @ Sleep Number Labs
-            Primary Task: Leading Cassandra %s Aurora Serverless (MySQL) migration
+            Primary Task: Supporting MSK upgrade from Kafka v3.5.1 %s v3.9.x
             """, "→");
     }
 
@@ -163,9 +163,9 @@ flowchart TD
     C --> C3[☁️ Serverless Solutions<br/>Automated Data Ingestion]
     
     D --> D1[🛡️ Cloud Engineering @ Sleep Number Labs<br/>Infra Adoption + Maturity]
-    D --> D2[📊 Cache Migration<br/>Hazelcast → ElasticCache Redis]
-    D --> D3[🚀 Redis Optimization<br/>Custom Redis-HashTag Indexing]
-    D --> D4[💰 Cost Optimization<br/>75% Savings via TPS Tuning]
+    D --> D2[📊 Cache Migration<br/>Hazelcast → ElastiCache Redis]
+    D --> D3[🚀 Cache Performance Optimization<br/>Custom Redis-HashTag Indexing]
+    D --> D4[💰 Cache Cost Optimization<br/>75% Monthly Savings via TPS Tuning]
     D --> D5[🔄 DB Migration<br/>Cassandra → Aurora MySQL Serverless]
     D --> D6[📈 Stress Testing Tools<br/>Hazelcast, Redis, Aurora]
 
