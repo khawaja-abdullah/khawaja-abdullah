@@ -164,9 +164,9 @@ flowchart TD
     
     D --> D1[🛡️ Cloud Engineering @ Sleep Number Labs<br/>Infra Adoption + Maturity]
     D --> D2[📊 Cache Migration<br/>Hazelcast → ElasticCache Redis]
-    D --> D3[🚀 Redis Optimization<br/>Custom HashTag Indexing]
-    D --> D4[💰 Cost Optimization<br/>50% Savings via TPS Tuning]
-    D --> D5[🔄 DB Migration<br/>Cassandra → Aurora MySQL]
+    D --> D3[🚀 Redis Optimization<br/>Custom Redis-HashTag Indexing]
+    D --> D4[💰 Cost Optimization<br/>75% Savings via TPS Tuning]
+    D --> D5[🔄 DB Migration<br/>Cassandra → Aurora MySQL Serverless]
     D --> D6[📈 Stress Testing Tools<br/>Hazelcast, Redis, Aurora]
 
     %% Main Nodes
