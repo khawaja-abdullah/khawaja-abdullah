@@ -151,9 +151,10 @@ public record Khawaja() {
 
 ```mermaid
 flowchart TD
-    A[🎓 BS Computer Science<br/>FAST NUCES ISB] --> B[💻 Software Engineer<br/>Devsinc]
-    B --> C[🚀 Software Engineer - Java Developer<br/>Mubasher Info]
-    C --> D[⚡ Backend Java Developer II<br/>Xgrid.co]
+    A[🎓 BS Computer Science<br/>FAST NUCES ISB] --> B[💻 Associate Software Engineer -> Software Engineer <br/>Devsinc]
+    B --> C[🚀 Software Engineer - Java Developer <br/>Mubasher Info]
+    C --> D[⚡ Backend Java Developer I -> Backend Java Developer II <br/>Xgrid.co]
+    D --> E[🏗️ Coming Soon]
     
     B --> B1[🔄 Intellirent Monolith Migration<br/>Ruby on Rails → 10+ Java Spring Boot Microservices]
     B --> B2[🔗 Third Party Enterprise API Integrations<br/>SendGrid, Twilio, AWS S3, Nova Credit, TransUnion, Experian, Finicity, Stripe, Google Identity]
