@@ -151,8 +151,8 @@ public record Khawaja() {
 
 ```mermaid
 flowchart TD
-    A[🎓 BS Computer Science<br/>FAST NUCES ISB] --> B[💻 Associate SE -> Software Engineer <br/>Devsinc]
-    B --> C[🚀 SE - Java Developer <br/> Global Financial Media - Mubasher]
+    A[🎓 BS Computer Science<br/>FAST NUCES ISB] --> B[💻 ASE -> SE <br/>Devsinc]
+    B --> C[🚀 SE - Java Dev <br/> Global Financial Media - Mubasher]
     C --> D[⚡ BE Java Dev I -> BE Java Dev II <br/>Xgrid.co]
     D --> E[🎯 Transitioning to New Role]
     
