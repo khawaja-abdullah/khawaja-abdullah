@@ -28,7 +28,7 @@ public record Khawaja() {
     public static final double EXPERIENCE_IN_YEARS = 3.67;
 
     public static final List<String> BUSINESS_DOMAINS = List.of(
-        "Real Estate", "FinTech", "HealthTech", "IoT", "Banking"
+        "Real Estate Tech", "FinTech", "HealthTech IoT"
     );
 
     public static final List<String> NOTABLE_PRODUCTS = List.of(
