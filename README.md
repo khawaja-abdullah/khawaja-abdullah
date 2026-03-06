@@ -25,14 +25,14 @@
 public record Khawaja() {
 
     public static final String FULL_NAME = "Khawaja Abdullah Ansar";
-    public static final double EXPERIENCE_IN_YEARS = 3.5;
+    public static final double EXPERIENCE_IN_YEARS = 3.67;
 
     public static final List<String> BUSINESS_DOMAINS = List.of(
-        "Real Estate", "FinTech", "HealthCare", "IoT"
+        "Real Estate", "FinTech", "HealthTech", "IoT", "Banking"
     );
 
     public static final List<String> NOTABLE_PRODUCTS = List.of(
-        "Intellirent", "Decypha", "Mubasher Info", "SleepNumber"
+        "Intellirent", "Decypha", "Mubasher Info", "SleepNumber", "Mashreq"
     );
 
     public static final List<String> EXPERTISE = List.of(
@@ -40,14 +40,14 @@ public record Khawaja() {
         "Cloud-Native Development",
         "Performance Engineering",
         "Distributed Systems Design",
-        "Legacy System Modernization"
+        "Legacy Systems Modernization"
     );
 
     public static void printCurrentFocus() {
-        System.out.printf("""
-            Current Focus: Solving distributed system challenges @ Sleep Number Labs
-            Primary Task: Supporting MSK upgrade from Kafka v3.5.1 %s v3.9.x
-            """, "→");
+        System.out.println("""
+            Current Focus: Backend Engineering @ Mashreq
+            Primary Task: Onboarding
+            """);
     }
 
     public static List<String> engineeringPhilosophy() {
@@ -153,8 +153,8 @@ public record Khawaja() {
 flowchart TD
     A[🎓 BS Computer Science<br/>FAST NUCES ISB] --> B[💻 ASE -> SE <br/>Devsinc]
     B --> C[🚀 SE - Java Dev <br/> Global Financial Media - Mubasher]
-    C --> D[⚡ BE Java Dev I -> BE Java Dev II <br/>Xgrid.co]
-    D --> E[🎯 Transitioning to New Role]
+    C --> D[⚡ BE Java Dev I -> BE Dev II <br/>Xgrid.co]
+    D --> E[🎯 Consultant App Dev <br/> Systems Limited]
     
     %% DEVSINC / INTELLIRENT
     B --> B1[🔄 Intellirent Monolith Migration<br/>Ruby on Rails → 10+ Java Spring Boot Microservices]
@@ -180,6 +180,7 @@ flowchart TD
     style B fill:#2CA02C,stroke:#1E7A1E,stroke-width:2px,color:#ffffff
     style C fill:#F39C12,stroke:#D68910,stroke-width:2px,color:#ffffff
     style D fill:#8E44AD,stroke:#6C3483,stroke-width:2px,color:#ffffff
+    style E fill:#1F22B4,stroke:#6C3483,stroke-width:2px,color:#ffffff
 
     %% Devsinc Nodes
     style B1 fill:#E8F5E9,stroke:#2CA02C,stroke-width:1.5px,color:#1B5E20
@@ -218,7 +219,7 @@ flowchart TD
 const connect = {
   linkedin: "https://linkedin.com/in/khawajaabdullahansar",
   email: "khawaja.abdullah.ansar@gmail.com",
-  interests: ["Clean Code", "Java", "Distributed System Design", "Cloud Architecture"],
+  interests: ["Clean Java Code", "Cloud Native Distributed System Design"],
   collaboration: "Always open to interesting technical discussions!"
 };
 ```
