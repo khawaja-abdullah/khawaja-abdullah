@@ -25,7 +25,7 @@
 public record Khawaja() {
 
     public static final String FULL_NAME = "Khawaja Abdullah Ansar";
-    public static final double EXPERIENCE_IN_YEARS = 3.67;
+    public static final double EXPERIENCE_IN_YEARS = 3.87;
 
     public static final List<String> BUSINESS_DOMAINS = List.of(
         "Real Estate Tech", "FinTech", "HealthTech IoT"
