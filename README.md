@@ -66,13 +66,13 @@ public record EngineeringProfile(
     corePhilosophy = List.copyOf(corePhilosophy);
   }
 
-  public static EngineeringProfile load() {
-    return INSTANCE;
-  }
-
   public static void main(String[] args) {
     var profile = EngineeringProfile.load();
     profile.deployReadmeManifesto();
+  }
+
+  public static EngineeringProfile load() {
+    return INSTANCE;
   }
 
   public void deployReadmeManifesto() {
@@ -106,7 +106,7 @@ public record EngineeringProfile(
             .toList()
     );
   }
-  
+
 }
 
 ```
