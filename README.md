@@ -208,7 +208,9 @@ flowchart TD
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khawaja-abdullah&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=khawaja-abdullah&show_icons=true&theme=tokyonight" alt="Github stats" height="180" />
+  
+  <img src="https://streak-stats.demolab.com/?user=khawaja-abdullah&theme=tokyonight" alt="GitHub Streak" height="180" />
 </div>
 
 ---
