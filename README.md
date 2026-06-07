@@ -166,7 +166,7 @@ flowchart TD
     C --> C3[☁️ Serverless Solutions<br/>Automated Data Ingestion Pipeline]
     
     %% XGRID / SLEEP NUMBER
-    D --> D1[🛡️ Cloud Engineering @ Sleep Number Labs<br/>Legacy Code Modernization -- Infrastructure Maturity -- Cloud Cost Optimizations]
+    D --> D1[🛡️ Cloud Engineer @ Sleep Number Labs<br/>Legacy Code Modernization -- Infrastructure Maturity -- Cloud Cost Optimizations]
     D --> D2[🔄 Cache Migration<br/>Hazelcast to ElastiCache Redis -- Stress-Testing Framework for HZ and Redis]
     D --> D3[🚀 Cache Performance Optimization<br/>Redis-HashTag based Custom Indexing -- ELB Timeouts reduced to Near-Instant Responses]
     D --> D4[📉 ElastiCache Cost Optimization<br/>96% GET & 81% PUT TPS Reduction -- Cluster Rightsizing -- 75% Monthly Cost Savings]
@@ -174,6 +174,9 @@ flowchart TD
     D --> D6[🛡️ IaaC Pipeline Maturity<br/>6hr Sprint Build Activity -> <2hrs via Automated Provisioning]
     D --> D7[🔍 E2E Performance Engineering Activities<br/>Stress & Load Testing Owner -- GC/Heap/Thread Dump Analysis]
     D --> D8[🛠️ SRE & Day-to-Day Ops Partnerships -- Prod Incidents Investigation and Resolution -- Standardized Knowledge Bases -- Eliminated Tribal Knowledge]
+
+    %% SYSTEMS / MASHREQ
+    E --> E1[🏦 BE @ Mashreq]
 
     %% Main Nodes
     style A fill:#1F77B4,stroke:#1F77B4,stroke-width:2px,color:#ffffff
@@ -200,6 +203,9 @@ flowchart TD
     style D6 fill:#F3E5F5,stroke:#8E44AD,stroke-width:1.5px,color:#4A148C
     style D7 fill:#F3E5F5,stroke:#8E44AD,stroke-width:1.5px,color:#4A148C
     style D8 fill:#F3E5F5,stroke:#8E44AD,stroke-width:1.5px,color:#4A148C
+
+    %% Xgrid Nodes
+    style E1 fill:#E8EAF6,stroke:#1F22B4,stroke-width:1.5px,color:#1A237E
 
 ```
 
