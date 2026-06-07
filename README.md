@@ -275,17 +275,4 @@ flowchart TD
   </table>
 </div>
 
----
-
-## 🌐 Let's Connect
-
-```javascript
-const connect = {
-  linkedin: "https://linkedin.com/in/khawajaabdullahansar",
-  email: "khawaja.abdullah.ansar@gmail.com",
-  interests: ["Clean Java Code", "Cloud Native Distributed System Design"],
-  collaboration: "Always open to interesting technical discussions!"
-};
-```
-
 </div>
