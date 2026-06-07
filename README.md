@@ -1,16 +1,11 @@
-# Hey there! 👋 I'm Khawaja.
+# Hi! 👋 Khawaja here.
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Java+Backend;Cloud-Native+Distributed+Systems;Consultant+App+Dev+@+Systems+Ltd" alt="Typing SVG" />
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=khawaja-abdullah&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </div>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khawajaabdullahansar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khawaja.abdullah.ansar@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923175802542)
-<img src="https://komarev.com/ghpvc/?username=khawaja-abdullah&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Java+Backend;Cloud-Native+Distributed+Systems;Consultant+App+Dev+@+Systems+Ltd" alt="Typing SVG" />
 </div>
 
 ---
@@ -282,5 +277,22 @@ flowchart TD
 	  <img alt="github-snake" src="https://raw.githubusercontent.com/khawaja-abdullah/khawaja-abdullah/output/github-snake.svg" />
 	</picture>
 </div>
+
+
+---
+## Let's connect!
+<p align="center">
+  <a href="https://linkedin.com/in/khawajaabdullahansar" title="Connect on LinkedIn">
+    <img src="https://img.icons8.com/bubbles/60/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:khawaja.abdullah.ansar@gmail.com" title="Email Me">
+    <img src="https://img.icons8.com/bubbles/60/000000/gmail.png" alt="Gmail" width="60" height="60"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/923175802542" title="Chat on WhatsApp">
+    <img src="https://img.icons8.com/bubbles/60/000000/whatsapp.png" alt="WhatsApp" width="60" height="60"/>
+  </a>
+</p>
 
 </div>
