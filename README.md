@@ -207,11 +207,16 @@ flowchart TD
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=khawaja-abdullah&show_icons=true&theme=tokyonight" alt="Github stats" height="180" />
-  
-  <img src="https://streak-stats.demolab.com/?user=khawaja-abdullah&theme=tokyonight" alt="GitHub Streak" height="180" />
-</div>
+<table align="center" border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=khawaja-abdullah&show_icons=true&theme=tokyonight" alt="Github stats" height="180" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=khawaja-abdullah&theme=tokyonight" alt="GitHub Streak" height="180" />
+    </td>
+  </tr>
+</table>
 
 ---
 
