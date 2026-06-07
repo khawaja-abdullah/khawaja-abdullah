@@ -18,50 +18,95 @@
 ## 🚀 About Me
 
 ```java
+package io.github.khawajaabdullah;
+
+import java.util.List;
+import java.util.Map;
+
 /**
- * Represents the engineering profile of Khawaja Abdullah Ansar.
- * Focused on high-scale distributed systems and performance.
+ * Technical blueprint of Khawaja Abdullah Ansar.
  */
-public record Khawaja() {
+public record EngineeringProfile(
+    String name,
+    double professionalExperienceYears,
+    List<String> coreExpertise,
+    Map<String, List<String>> productionDomainHistory,
+    String currentFocus,
+    List<String> corePhilosophy
+) {
 
-    public static final String FULL_NAME = "Khawaja Abdullah Ansar";
-    public static final double EXPERIENCE_IN_YEARS = 3.87;
+  private static final System.Logger LOGGER = System.getLogger(EngineeringProfile.class.getName());
 
-    public static final List<String> BUSINESS_DOMAINS = List.of(
-        "Real Estate Tech", "FinTech", "HealthTech IoT"
+  private static final EngineeringProfile INSTANCE = new EngineeringProfile(
+      "Khawaja Abdullah Ansar", // name
+      3.92, // professionalExperienceYears
+      List.of(
+          "Microservices Architecture",
+          "Cloud-Native Development",
+          "Performance Engineering",
+          "Distributed Systems Design",
+          "Legacy Systems Modernization"
+      ), // coreExpertise
+      Map.of(
+          "FinTech", List.of("Mashreq", "Decypha", "Mubasher Info"),
+          "Real Estate Tech", List.of("Intellirent"),
+          "HealthTech IoT", List.of("SleepNumber")
+      ), // productionDomainHistory
+      "Backend Engineering @ Mashreq", // currentFocus
+      List.of(
+          "Clean code",
+          "Resilient architecture",
+          "Relentless optimization"
+      ) // corePhilosophy
+  );
+
+  public EngineeringProfile {
+    coreExpertise = List.copyOf(coreExpertise);
+    productionDomainHistory = Map.copyOf(productionDomainHistory);
+    corePhilosophy = List.copyOf(corePhilosophy);
+  }
+
+  public static EngineeringProfile load() {
+    return INSTANCE;
+  }
+
+  public static void main(String[] args) {
+    var profile = EngineeringProfile.load();
+    profile.deployReadmeManifesto();
+  }
+
+  public void deployReadmeManifesto() {
+    LOGGER.log(System.Logger.Level.INFO, """
+            +-------------------------------------------------------------+
+            %s | Backend Software Engineer
+            +-------------------------------------------------------------+
+            Experience:  %.2f Years
+            Focus:       %s
+            
+            Core Pillars:
+            %s
+            
+            Philosophy:
+            %s
+            +-------------------------------------------------------------+
+            """.formatted(
+            name.toUpperCase(),
+            professionalExperienceYears,
+            currentFocus,
+            formatList(coreExpertise, "  - "),
+            formatList(corePhilosophy, "  * ")
+        )
     );
+  }
 
-    public static final List<String> NOTABLE_PRODUCTS = List.of(
-        "Intellirent", "Decypha", "Mubasher Info", "SleepNumber", "Mashreq"
+  private String formatList(List<String> list, String prefix) {
+    return String.join("\n",
+        list.stream()
+            .map(s -> prefix + s)
+            .toList()
     );
-
-    public static final List<String> EXPERTISE = List.of(
-        "Microservices Architecture",
-        "Cloud-Native Development",
-        "Performance Engineering",
-        "Distributed Systems Design",
-        "Legacy Systems Modernization"
-    );
-
-    public static void printCurrentFocus() {
-        System.out.println("""
-            Current Focus: Backend Engineering @ Mashreq
-            Primary Task: Onboarding
-            """);
-    }
-
-    public static List<String> engineeringPhilosophy() {
-        return List.of(
-            "Clean code",
-            "Resilient architecture",
-            "Relentless optimization"
-        );
-    }
-
-    public static boolean isGrowthMinded() {
-        return true;
-    }
-
+  }
+  
 }
 
 ```
