@@ -187,7 +187,7 @@ public record EngineeringProfile(
 
 ---
 
-## 🏗️ Architecture & Engineering
+## 🏗️ My Engineering Journey
 
 ```mermaid
 flowchart TD
@@ -280,7 +280,7 @@ flowchart TD
 
 
 ---
-## Let's connect!
+## 🌐 Let's connect!
 <p align="center">
   <a href="https://linkedin.com/in/khawajaabdullahansar" title="Connect on LinkedIn">
     <img src="https://img.icons8.com/bubbles/60/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/>
