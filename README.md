@@ -256,11 +256,11 @@ flowchart TD
   <table border="0" cellpadding="5" cellspacing="5">
     <tr>
       <td>
-        <img src="https://github-readme-stats.shion.dev/api?username=khawaja-abdullah&show_icons=true&theme=tokyonight" alt="Github Stats" />
+		  <img src="https://streak-stats.demolab.com/?user=khawaja-abdullah&theme=tokyonight" alt="GitHub Streak" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=khawaja-abdullah&theme=tokyonight" alt="GitHub Streak" />
-      </td>
+		  <img src="https://github-readme-stats.shion.dev/api?username=khawaja-abdullah&show_icons=true&theme=tokyonight" alt="Github Stats" />      	
+	  </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
