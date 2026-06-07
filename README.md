@@ -210,18 +210,15 @@ flowchart TD
   <table border="0" cellpadding="5" cellspacing="5">
     <tr>
       <td>
-        <img src="https://github-readme-stats.shion.dev/api?username=khawaja-abdullah&show_icons=true&theme=tokyonight" height="180" alt="Github Stats" />
+        <img src="https://github-readme-stats.shion.dev/api?username=khawaja-abdullah&show_icons=true&theme=tokyonight" alt="Github Stats" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=khawaja-abdullah&theme=tokyonight" height="180" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=khawaja-abdullah&theme=tokyonight" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=khawaja-abdullah&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
-      </td>
-      <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=khawaja-abdullah&theme=tokyonight&area=true" height="180" alt="Activity Graph" />
+      <td colspan="2" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=khawaja-abdullah&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
       </td>
     </tr>
   </table>
