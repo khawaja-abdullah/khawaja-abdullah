@@ -271,11 +271,6 @@ flowchart TD
 		  <img src="https://github-readme-stats.shion.dev/api?username=khawaja-abdullah&show_icons=true&theme=tokyonight" alt="Github Stats" />      	
 	  </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=khawaja-abdullah&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-      </td>
-    </tr>
   </table>
 </div>
 
