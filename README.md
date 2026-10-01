@@ -43,11 +43,12 @@ public record EngineeringProfile(
           "Legacy Systems Modernization"
       ), // coreExpertise
       Map.of(
-          "FinTech", List.of("Mashreq", "Decypha", "Mubasher Info"),
+          "Health IoT", List.of("SleepNumber"),
+          "FinTech", List.of("Decypha", "Mubasher Info"),
           "Real Estate Tech", List.of("Intellirent"),
-          "HealthTech IoT", List.of("SleepNumber")
+          "Banking", List.of("A Leading UAE Bank")
       ), // productionDomainHistory
-      "Backend Engineering @ Mashreq", // currentFocus
+      "Backend Engineering @ A Leading UAE Bank", // currentFocus
       List.of(
           "Clean code",
           "Resilient architecture",
@@ -202,7 +203,7 @@ flowchart TD
     B --> B1[🔄 Intellirent Monolith Migration<br/>Ruby on Rails → 10+ Java Spring Boot Microservices]
     B --> B2[🔗 Enterprise API Integrations<br/>Stripe, SendGrid, Twilio, AWS S3, Nova Credit, TransUnion, Experian, Finicity, Google Identity]
     
-    %% GLOBAL FINALICAL MEDIA | MUBASHER / DECYPHA, MUBASHER INFO
+    %% GLOBAL FINANCIAL MEDIA | MUBASHER / DECYPHA, MUBASHER INFO
     C --> C1[⚡ Decypha Performance Engineering<br/>66% FCP Improvement]
     C --> C2[🔧 Legacy Mubasher Info Modernization<br/>New Social Trading Module Core Features]
     C --> C3[☁️ Serverless Solutions<br/>Automated Data Ingestion Pipeline]
@@ -212,20 +213,23 @@ flowchart TD
     D --> D2[🔄 Cache Migration<br/>Hazelcast to ElastiCache Redis -- Stress-Testing Framework for HZ and Redis]
     D --> D3[🚀 Cache Performance Optimization<br/>Redis-HashTag based Custom Indexing -- ELB Timeouts reduced to Near-Instant Responses]
     D --> D4[📉 ElastiCache Cost Optimization<br/>96% GET & 81% PUT TPS Reduction -- Cluster Rightsizing -- 75% Monthly Cost Savings]
-    D --> D5[🔄 Database Migration<br/>Cassandra to Aurora MySQL Serverless -- Dual-write data pipeline -- Legacy microservices -> C* & MSK -> ECS Fargate Consumers -> Aurora -- Feature Flags Managed Transition -- Owned 1x DBaaS API and 3x Kafka Consumer microservices -- Stress-Testing Framework for Aurora -- DSE License Cost Cut -- >70% Yearly Cost Savings]
+    D --> D5[🔄 Database Migration<br/>Cassandra to Aurora MySQL Serverless -- Dual-write data pipeline -- Legacy microservices -> C* & MSK -> ECS Fargate Consumers -> Aurora -- Feature Flags Managed Transition -- Owned 1x DBaaS API and 3x Kafka Consumer microservices -- Validated E2E Pipeline Throughput vs. Production SLAs -- DSE License Cost Cut -- >70% Yearly Cost Savings]
     D --> D6[🛡️ IaaC Pipeline Maturity<br/>6hr Sprint Build Activity -> <2hrs via Automated Provisioning]
     D --> D7[🔍 E2E Performance Engineering Activities<br/>Stress & Load Testing Owner -- GC/Heap/Thread Dump Analysis]
     D --> D8[🛠️ SRE & Day-to-Day Ops Partnerships -- Prod Incidents Investigation and Resolution -- Standardized Knowledge Bases -- Eliminated Tribal Knowledge]
 
     %% SYSTEMS / MASHREQ
-    E --> E1[🏦 BE @ Mashreq]
+    E --> E1[🔄 STP Onboarding Automation<br/>Manual Checks -> Chain of Responsibility Pattern -- ~33% of Premium Segment Automated]
+    E --> E2[🐛 Production Defect Resolution<br/>Document Vault Sync Gap -- Downstream Validation Bug]
+    E --> E3[🛡️ Risk Propagation Engine<br/>ETB/NTP Customer Classification -- Cross-Relationship Risk Carryover]
+    E --> E4[📚 Knowledge Base & Mentorship<br/>Architecture Documentation -- Onboarded 3 Backend Engineers]
 
     %% Main Nodes
     style A fill:#1F77B4,stroke:#1F77B4,stroke-width:2px,color:#ffffff
     style B fill:#2CA02C,stroke:#1E7A1E,stroke-width:2px,color:#ffffff
     style C fill:#F39C12,stroke:#D68910,stroke-width:2px,color:#ffffff
     style D fill:#8E44AD,stroke:#6C3483,stroke-width:2px,color:#ffffff
-    style E fill:#1F22B4,stroke:#6C3483,stroke-width:2px,color:#ffffff
+    style E fill:#D62728,stroke:#A52121,stroke-width:2px,color:#ffffff
 
     %% Devsinc Nodes
     style B1 fill:#E8F5E9,stroke:#2CA02C,stroke-width:1.5px,color:#1B5E20
@@ -246,8 +250,11 @@ flowchart TD
     style D7 fill:#F3E5F5,stroke:#8E44AD,stroke-width:1.5px,color:#4A148C
     style D8 fill:#F3E5F5,stroke:#8E44AD,stroke-width:1.5px,color:#4A148C
 
-    %% Xgrid Nodes
-    style E1 fill:#E8EAF6,stroke:#1F22B4,stroke-width:1.5px,color:#1A237E
+    %% Systems / UAE Digital Bank Nodes
+    style E1 fill:#FCE4E4,stroke:#D62728,stroke-width:1.5px,color:#7A1414
+    style E2 fill:#FCE4E4,stroke:#D62728,stroke-width:1.5px,color:#7A1414
+    style E3 fill:#FCE4E4,stroke:#D62728,stroke-width:1.5px,color:#7A1414
+    style E4 fill:#FCE4E4,stroke:#D62728,stroke-width:1.5px,color:#7A1414
 
 ```
 
@@ -296,5 +303,3 @@ flowchart TD
     <img src="https://img.icons8.com/bubbles/60/000000/whatsapp.png" alt="WhatsApp" width="60" height="60"/>
   </a>
 </p>
-
-</div>
